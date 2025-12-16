@@ -1,0 +1,218 @@
+{
+  "magTitle": "Motocross Course",
+  "hook": "Vitesse, terrain et maîtrise",
+  "logo": "assets/images/logo.svg",
+  "cta": {
+    "text": "Voir les circuits",
+    "label": "S'abonner"
+  },
+  "cover": {
+    "headline": "2025 : suspensions et traction",
+    "summary": "Technicité et sécurité.",
+    "body": "Réglages de suspensions, pneus et trajectoires sur terrains variés.",
+    "date": "1er Décembre 2025",
+    "topic": "Technique",
+    "author": "Checkine",
+    "imageHero": "assets/texture/texture1.jpg",
+    "rating": 4.6,
+    "views": 9800,
+    "read": "6 min",
+    "tags": [
+      "suspension",
+      "traction",
+      "pneus"
+    ],
+    "titre": "2025 : suspensions et traction",
+    "description": "Technicité et sécurité.",
+    "corps": "Réglages de suspensions, pneus et trajectoires sur terrains variés.",
+    "theme": "Technique",
+    "auteur": "Checkine"
+  },
+  "stories": [
+    {
+      "headline": "Pilotes et écoles",
+      "summary": "Formation et performance.",
+      "body": "Les écoles forment à la lecture du terrain et au contrôle.",
+      "date": "28 Novembre 2025",
+      "topic": "Pilotes",
+      "author": "Rédaction",
+      "image": "assets/texture/texture2.png",
+      "rating": 4.5,
+      "views": 8400,
+      "read": "5 min",
+      "titre": "Pilotes et écoles",
+      "description": "Formation et performance.",
+      "corps": "Les écoles forment à la lecture du terrain et au contrôle.",
+      "theme": "Pilotes",
+      "auteur": "Rédaction"
+    },
+    {
+      "headline": "Sable : lignes et appuis",
+      "summary": "Lecture de piste.",
+      "body": "Trajectoires et rythmes.",
+      "date": "25 Novembre 2025",
+      "topic": "Piste",
+      "author": "Checkine",
+      "image": "assets/texture/texture3.jpg",
+      "rating": 4.4,
+      "views": 7600,
+      "read": "5 min",
+      "titre": "Sable : lignes et appuis",
+      "description": "Lecture de piste.",
+      "corps": "Trajectoires et rythmes.",
+      "theme": "Piste",
+      "auteur": "Checkine"
+    },
+    {
+      "headline": "Whoops : tempo et engagement",
+      "summary": "Rythme et position.",
+      "body": "Avant léger, gaz régulier.",
+      "date": "20 Novembre 2025",
+      "topic": "Technique",
+      "author": "Rédaction",
+      "image": "assets/texture/texture4.jpg",
+      "rating": 4.3,
+      "views": 7100,
+      "read": "4 min",
+      "titre": "Whoops : tempo et engagement",
+      "description": "Rythme et position.",
+      "corps": "Avant léger, gaz régulier.",
+      "theme": "Technique",
+      "auteur": "Rédaction"
+    },
+    {
+      "headline": "Mécanique : filtre à air et transmission",
+      "summary": "Entretien essentiel.",
+      "body": "Nettoyage et tension.",
+      "date": "16 Novembre 2025",
+      "topic": "Mécanique",
+      "author": "Checkine",
+      "image": "assets/texture/texture5.jpg",
+      "rating": 4.6,
+      "views": 8400,
+      "read": "6 min",
+      "titre": "Mécanique : filtre à air et transmission",
+      "description": "Entretien essentiel.",
+      "corps": "Nettoyage et tension.",
+      "theme": "Mécanique",
+      "auteur": "Checkine"
+    },
+    {
+      "headline": "Physique du pilote",
+      "summary": "Cardio et gainage.",
+      "body": "Programme hebdo.",
+      "date": "11 Novembre 2025",
+      "topic": "Préparation",
+      "author": "Rédaction",
+      "image": "assets/texture/texture6.jpg",
+      "rating": 4.2,
+      "views": 6200,
+      "read": "4 min",
+      "titre": "Physique du pilote",
+      "description": "Cardio et gainage.",
+      "corps": "Programme hebdo.",
+      "theme": "Préparation",
+      "auteur": "Rédaction"
+    }
+  ],
+  "topics": [
+    {
+      "title": "Équipement",
+      "desc": "Sécurité et confort.",
+      "icon": "🧤",
+      "image": "assets/texture/texture7.jpg",
+      "color": "#10B981",
+      "nom": "Équipement",
+      "description": "Sécurité et confort."
+    },
+    {
+      "title": "Technique",
+      "desc": "Whoops, virages.",
+      "icon": "🛠️",
+      "image": "assets/texture/texture7.jpg",
+      "color": "#3B82F6",
+      "nom": "Technique",
+      "description": "Whoops, virages."
+    },
+    {
+      "title": "Piste",
+      "desc": "Sable et dur.",
+      "icon": "🏁",
+      "image": "assets/texture/texture7.jpg",
+      "color": "#8B5CF6",
+      "nom": "Piste",
+      "description": "Sable et dur."
+    },
+    {
+      "title": "Mécanique",
+      "desc": "Entretien moto.",
+      "icon": "⚙️",
+      "image": "assets/texture/texture7.jpg",
+      "color": "#F59E0B",
+      "nom": "Mécanique",
+      "description": "Entretien moto."
+    },
+    {
+      "title": "Préparation",
+      "desc": "Cardio et gainage.",
+      "icon": "💪",
+      "image": "assets/texture/texture7.jpg",
+      "color": "#EF4444",
+      "nom": "Préparation",
+      "description": "Cardio et gainage."
+    },
+    {
+      "title": "Calendrier",
+      "desc": "Courses et résultats.",
+      "icon": "📅",
+      "image": "assets/texture/texture7.jpg",
+      "color": "#6B7280",
+      "nom": "Calendrier",
+      "description": "Courses et résultats."
+    }
+  ],
+  "contributors": [
+    {
+      "firstName": "Checkine",
+      "expertise": "Passionné MX",
+      "bio": "Technique et courses.",
+      "avatar": "assets/texture/texture7.jpg",
+      "email": "checkine@mx.com",
+      "articles": 14,
+      "followers": 3600,
+      "prenom": "Checkine",
+      "nom": "",
+      "typeExperience": "Passionné MX",
+      "presentation": "Technique et courses.",
+      "image": "assets/texture/texture7.jpg"
+    },
+    {
+      "firstName": "Léo",
+      "expertise": "Mécanicien",
+      "bio": "Réglages suspension.",
+      "avatar": "assets/texture/texture7.jpg",
+      "email": "leo@mecax.fr",
+      "articles": 12,
+      "followers": 2900,
+      "prenom": "Léo",
+      "nom": "Durand",
+      "typeExperience": "Mécanicien",
+      "presentation": "Réglages suspension.",
+      "image": "assets/texture/texture7.jpg"
+    },
+    {
+      "firstName": "Sara",
+      "expertise": "Préparatrice",
+      "bio": "Cardio et mobilité.",
+      "avatar": "assets/texture/texture7.jpg",
+      "email": "sara@prepafit.fr",
+      "articles": 13,
+      "followers": 3100,
+      "prenom": "Sara",
+      "nom": "Lopez",
+      "typeExperience": "Préparatrice physique",
+      "presentation": "Cardio et mobilité.",
+      "image": "assets/texture/texture7.jpg"
+    }
+  ]
+}
