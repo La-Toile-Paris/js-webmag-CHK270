@@ -34,7 +34,16 @@ function getData() {
 
 
 
-
+journal.topics.forEach((topic) => {
+  let nav= `<div class = container>
+  <div class= nav-theme-btn >
+<p class = nav-theme-btn:hover  >${topic.title}${topic.icon}</p>
+</div>
+</div>
+  `
+    themeNav.insertAdjacentHTML("beforeend", nav);
+});
+ 
 
 
       // TODO 3: REMPLIR L'ARTICLE PRINCIPAL
