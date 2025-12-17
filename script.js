@@ -49,7 +49,7 @@ journal.topics.forEach((topic) => {
       // TODO 3: REMPLIR L'ARTICLE PRINCIPAL
       let articlesPrincipale = document.getElementById('article-principal')
       let principal = `<div class= container-full>
- <div id = article-principal>
+
  <img src= "${journal.cover.imageHero}" id=hero-image  >
  <h3 id = hero-description>${journal.cover.headline}</h3>
  <h2 >${journal.cover.body}</h2>
@@ -57,7 +57,7 @@ journal.topics.forEach((topic) => {
  <p id = hero-auteur> Par ${journal.cover.author} ; ${journal.cover.date}</p>
  <p class= read-article-btn>${journal.cta.text}</p>
  
-</div>
+
  </div>`
       articlesPrincipale.insertAdjacentHTML("beforebegin", principal)
 
@@ -69,8 +69,8 @@ journal.stories.forEach(histoire => {
   <div class = container>
   <div class = article-card>
   <div class = article-content>
-  <img src = "${histoire.image}" class = article-card img>
   <h3 class = article-content h3>${histoire.headline}</h3>
+    <img src = "${histoire.image}" class = article-card img>
   <p class = article-content p >${histoire.summary}</p>
   <p class = article-content p >${histoire.body}</p>
   <p class = article-author >Par ${histoire.author}.${histoire.date}</p>
@@ -146,6 +146,16 @@ getData();
 
 // BONUS:
 // Alert quand on appuie sur le bouton CTA
+// Lorsque l'évènement mouseover est déclenché, exécuter maFonction
+ let alert = document.getElementById("call-to-action").click();
+function maFonction() {
+  if ("call-to-action".click) {
+  alert(fdc)
+  alert.insertAdjacentHTML("beforeend",)
+}
+}
+maFonction()
+
 // Fonction de filtrage par thème
 // Classer les articles par popularité ou notation
 
